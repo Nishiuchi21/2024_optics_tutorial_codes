@@ -40,4 +40,4 @@ DataInspector(fig)
 fig
 
 ##
-save("/Users/jnishiuchi/Documents/2024_tutorial_folder_codes/240603/output/test.png", fig)
+save("240603/output", fig)
